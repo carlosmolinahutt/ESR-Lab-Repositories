@@ -20,6 +20,7 @@ An philosphical overview of how to write software efficiently. Useful if you are
 
 
 ## Machine Learning
-
+[Machine learning online Textbook] (http://neuralnetworksanddeeplearning.com/index.html)
+A really good free reasource on the mathematics behind machine learning, with python examples.
 
 
