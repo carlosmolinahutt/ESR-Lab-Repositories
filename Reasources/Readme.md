@@ -5,6 +5,7 @@ This is a curated list of useful reasources for topics surrounding structural en
 - [OpenSees](#OpenSees)
 - [Siesmic Hazard](#siesmic-hazard)
 - [Programing](#programing)
+- [Python Libraries](#Python-Libraries)
 - [Structural Analysis]()
 - [Machine Learning](#machine-learning)
 
@@ -28,6 +29,9 @@ Very useful for understanding PSHA in simple terms!
 [Introducttion to Clean coding and software design](https://www.youtube.com/watch?v=7EmboKQH8lM&t=1198s):
 An philosphical overview of how to write software efficiently. Useful if you are working on larger programming projects.
 
+## Python Libraries
+[Cartopy](https://scitools.org.uk/cartopy/docs/latest/whats_new.html):
+A reasource for ploting Cartographic figures, built on top of Matplotlib.
 
 ## Machine Learning
 [Machine learning online Textbook](http://neuralnetworksanddeeplearning.com/index.html)
