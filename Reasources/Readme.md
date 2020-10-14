@@ -1,4 +1,4 @@
-# Online Reasources
+# Online Resources
 
 This is a curated list of useful reasources for topics surrounding structural engineering. They are broken into the following categories
 
